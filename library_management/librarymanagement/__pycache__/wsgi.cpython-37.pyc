@@ -1,0 +1,12 @@
+B
+    ðŸÕ_«  ã               @   s0   d Z ddlZddlmZ ej dd¡ eƒ ZdS )zá
+WSGI config for librarymanagement project.
+
+It exposes the WSGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/3.0/howto/deployment/wsgi/
+é    N)Úget_wsgi_applicationÚDJANGO_SETTINGS_MODULEzlibrarymanagement.settings)Ú__doc__ÚosÚdjango.core.wsgir   ÚenvironÚ
+setdefaultÚapplication© r
+   r
+   úKC:\Users\wapka\Documents\GitHub\librarymanagement\librarymanagement\wsgi.pyÚ<module>   s   

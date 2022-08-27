@@ -1,0 +1,38 @@
+B
+    ğŸÕ_z  ã               @   s   d Z ddlmZ ddlmZ ddlmZ ddlmZ ddl	m
+Z
+mZ edejjƒeded	ƒƒed
+ejƒedejƒedejƒedejƒedejƒede
+jddƒede
+jddƒedejddƒedejƒedejƒedejƒedejƒedejƒedejƒedejƒedejƒedejƒgZdS ) az  librarymanagement URL Configuration
+
+The `urlpatterns` list routes URLs to views. For more information please see:
+    https://docs.djangoproject.com/en/3.0/topics/http/urls/
+Examples:
+Function views
+    1. Add an import:  from my_app import views
+    2. Add a URL to urlpatterns:  path('', views.home, name='home')
+Class-based views
+    1. Add an import:  from other_app.views import Home
+    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')
+Including another URLconf
+    1. Import the include() function: from django.urls import include, path
+    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
+é    )Úadmin)Úinclude)Úpath)Úviews)Ú	LoginViewÚ
+LogoutViewzadmin/z	accounts/zdjango.contrib.auth.urlsÚ Z
+adminclickZstudentclickZadminsignupZstudentsignupZ
+adminloginzlibrary/adminlogin.html)Útemplate_nameZstudentloginzlibrary/studentlogin.htmlÚlogoutzlibrary/index.htmlZ
+afterloginZaddbookZviewbookZ	issuebookZviewissuedbookZviewstudentÚviewissuedbookbystudentZaboutusZ	contactusN)Ú__doc__Zdjango.contribr   Zdjango.conf.urlsr   Údjango.urlsr   Úlibraryr   Údjango.contrib.auth.viewsr   r   ÚsiteÚurlsZ	home_viewZadminclick_viewZstudentclick_viewZadminsignup_viewZstudentsignup_viewÚas_viewZafterlogin_viewZaddbook_viewZviewbook_viewZissuebook_viewZviewissuedbook_viewZviewstudent_viewr   Zaboutus_viewZcontactus_viewÚurlpatterns© r   r   úKC:\Users\wapka\Documents\GitHub\librarymanagement\librarymanagement\urls.pyÚ<module>   s0   
+
+
+
+
+
+
+
+
+
+
+
+
+
